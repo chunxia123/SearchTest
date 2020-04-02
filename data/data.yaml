@@ -1,0 +1,6 @@
+test_search:
+  test001:
+    search: "伦敦 "
+  test002:
+    search: "london"
+
